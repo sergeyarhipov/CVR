@@ -104,6 +104,7 @@ body {
 	font-family: Myriad, 'Roboto Condensed', Arial, sans-serif;
 	text-align: center;
 	text-decoration: none;
+	color: #03365c;
 }
 
 .dropdown-link:hover {
@@ -276,6 +277,7 @@ body {
 
 .last-news-link {
 	text-decoration: none;
+	color: #03365c
 }
 
 .last-news-link:hover {
@@ -404,6 +406,7 @@ body {
 }
 
 .main-menu-link {
+	color: #03365c;
 	text-decoration: none;
 }
 
@@ -464,6 +467,23 @@ body {
 	display: block;
 	margin-right: 15px;
 	text-align: justify;
+}
+
+.copyright-information {
+	width: 1065px;
+	padding: 17px 10px 17px 25px;
+	margin-bottom: 10px;
+	display: block;
+	font-family: Myriad, 'Roboto Condensed', Arial, sans-serif;
+    font-size: 16px;
+    font-weight: bold;
+    line-height: 18px;
+    color: #200453;
+    border-left: 2px solid #6e9602;
+    border-right: 2px solid #6e9602;
+    border-bottom: 2px solid #6e9602;
+    border-radius: 0 0 10px 10px;
+    background-color: #add04d;
 }
 
 
