@@ -486,6 +486,7 @@ body {
 
 .main-menu-sublink:hover {
 	font-weight: normal;
+	padding: 10px 15px 10px 15px;
 	color: #faf185;	
 }
 
