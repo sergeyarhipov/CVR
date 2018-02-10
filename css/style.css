@@ -308,7 +308,7 @@ body {
 .organization-name {
 	width: 480px;
 	float: left;
-	padding-top: 90px;
+	padding-top: 60px;
 	padding-left: 30px;
 	font-family: Ariston, Pattaya, Arial, sans-serif;
 	font-size: 30px;
@@ -318,6 +318,15 @@ body {
 	-webkit-text-shadow: 1px 1px 0 black, -1px -1px 0 #c77a0c;
     -moz-text-shadow: 1px 1px 0 black, -1px -1px 0 #c77a0c;
     text-shadow: 1px 1px 0 black, -1px -1px 0 #c77a0c;
+}
+
+.organization-name span {
+	display: block;
+	margin-top: 30px;
+	font-size: 20px;
+	font-family: Myriad, 'Roboto Condensed', Arial, sans-serif;
+	font-style: italic;
+	line-height: 20px;
 }
 
 .search-block {
@@ -485,11 +494,3 @@ body {
     border-radius: 0 0 10px 10px;
     background-color: #add04d;
 }
-
-
-
-
-
-
-
-
